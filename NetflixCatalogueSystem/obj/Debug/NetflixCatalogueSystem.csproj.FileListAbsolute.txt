@@ -1,0 +1,6 @@
+c:\users\derek scheller\documents\visual studio 2015\Projects\NetflixCatalogueSystem\NetflixCatalogueSystem\bin\Debug\NetflixCatalogueSystem.exe.config
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\NetflixCatalogueSystem\NetflixCatalogueSystem\obj\Debug\NetflixCatalogueSystem.csprojResolveAssemblyReference.cache
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\NetflixCatalogueSystem\NetflixCatalogueSystem\bin\Debug\NetflixCatalogueSystem.exe
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\NetflixCatalogueSystem\NetflixCatalogueSystem\bin\Debug\NetflixCatalogueSystem.pdb
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\NetflixCatalogueSystem\NetflixCatalogueSystem\obj\Debug\NetflixCatalogueSystem.exe
+C:\Users\Derek Scheller\Documents\Visual Studio 2015\Projects\NetflixCatalogueSystem\NetflixCatalogueSystem\obj\Debug\NetflixCatalogueSystem.pdb
